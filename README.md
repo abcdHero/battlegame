@@ -1,5 +1,5 @@
-# battlegame
-My battle game
+# Battlegame
+**My battle game**
 
 # Author
 abcdHero <ashleychan10203@gmail.com>
@@ -25,3 +25,12 @@ print("1010")
 >>[My Stats](https://scratch.mit.edu/projects/411724156/s)
 >
 >>[Terraria Moon Lord Battle](https://scratch.mit.edu/projects/442600859/)
+
+<br>
+<br>
+<br>
+
+# ***I am still learning how to git***
+
+
+
