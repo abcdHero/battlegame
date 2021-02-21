@@ -6,4 +6,4 @@ For more detail, refer the tutorial page: [Make HTML5 games with Phaser 3](https
 
 For how to upload this game to Github, refer [breakout](/breakout/).
 
-You could play this game at [https://abcdhero.github.io/battlegame/first_phaser_game/](https://abcdhero.github.io/battlegame/first_phaser_game/)
+You could play this game at [https://abcdhero.github.io/battlegame/first_phaser_game/](https://abcdhero.github.io/battlegame/first_phaser_game/index.html)
